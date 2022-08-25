@@ -1,5 +1,5 @@
 A fork from [bchalios/rust-openfaas-template](https://github.com/bchalios/rust-openfaas-template)
-With the goals to be maintained by OpenBackend template
+With the goals to be maintained by OpenBackend team.
 
 # OpenFaas Rust Template
 
